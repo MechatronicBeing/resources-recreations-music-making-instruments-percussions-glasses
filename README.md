@@ -1,2 +1,2 @@
 # resources-musical-instruments-percussions-glasses
-Free "public domain" resources about glasses (musical insturments).
+Free "public domain" resources about glasses (musical instruments).
